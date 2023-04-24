@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+
+
+.pad >.img >img {
+    height: 100px;
+    width: 100px;
+    padding: 15px;
+
+}
+.pad{
+    border: solid black 2px;
+    height: 300px;
+    width: 300px;
+
+    margin-bottom:   15px;
+}
+.hov{
+    width:5%;
+    margin: auto;
+}
+.hov >button:hover{
+    background-color: black;
+    color: white;
+}
+.head >p:hover{
+    font-size: large;
+    color: red;
+    cursor: pointer;
+}
